@@ -1,0 +1,83 @@
+2020-08-14 08:42:26.538 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 08:42:26.632 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:42:26.818 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:42:27.845 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:42:27.864 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:42:38.820 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:42:42.963 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:42:43.014 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:42:50.793 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:42:54.985 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 08:42:58.093 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:42:58.113 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:43:02.798 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:43:13.155 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:43:13.172 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:43:14.800 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:43:18.282 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 08:43:26.827 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 08:43:28.240 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:43:28.271 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 08:43:38.888 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:11:40.987 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:11:46.533 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:11:46.785 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:11:46.806 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:11:48.428 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:12:00.404 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:12:01.832 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:01.849 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:12.403 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:12:13.266 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:12:16.904 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:16.923 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:24.407 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:12:31.954 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:31.971 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:36.406 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:12:41.720 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:12:47.028 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:47.046 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:12:48.406 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:13:00.405 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:13:02.087 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:02.109 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:11.444 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:13:12.423 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:13:17.146 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:17.163 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:24.409 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:13:32.208 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:32.226 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:35.205 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:13:36.430 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:13:47.273 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:47.291 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:13:48.420 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:13:59.751 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:14:00.435 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:14:02.328 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:02.346 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:12.430 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:14:17.384 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:17.409 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:23.861 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:14:24.426 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:14:32.434 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:32.451 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:36.435 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:14:47.490 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:47.508 febs [QuartzScheduler_MyScheduler-bogon1597306270961_ClusterManager] INFO  p6spy - 
+2020-08-14 09:14:48.439 febs [QuartzScheduler_MyScheduler-bogon1597306270961_MisfireHandler] INFO  p6spy - 
+2020-08-14 09:14:48.543 febs [MyScheduler_QuartzSchedulerThread] INFO  p6spy - 
+2020-08-14 09:14:59.582 febs [Thread-31] INFO  org.quartz.core.QuartzScheduler - Scheduler MyScheduler_$_bogon1597306270961 paused.
+2020-08-14 09:14:59.612 febs [Thread-31] INFO  o.s.s.c.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2020-08-14 09:14:59.742 febs [Thread-31] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'taskExecutor'
+2020-08-14 09:14:59.749 febs [Thread-31] INFO  o.s.s.quartz.SchedulerFactoryBean - Shutting down Quartz Scheduler
+2020-08-14 09:14:59.749 febs [Thread-31] INFO  org.quartz.core.QuartzScheduler - Scheduler MyScheduler_$_bogon1597306270961 shutting down.
+2020-08-14 09:14:59.749 febs [Thread-31] INFO  org.quartz.core.QuartzScheduler - Scheduler MyScheduler_$_bogon1597306270961 paused.
+2020-08-14 09:14:59.753 febs [Thread-31] INFO  org.quartz.core.QuartzScheduler - Scheduler MyScheduler_$_bogon1597306270961 shutdown complete.
+2020-08-14 09:14:59.794 febs [Thread-31] INFO  c.b.d.d.DynamicRoutingDataSource - dynamic-datasource start closing ....
+2020-08-14 09:14:59.801 febs [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource - primary - Shutdown initiated...
+2020-08-14 09:14:59.806 febs [Thread-31] INFO  com.zaxxer.hikari.HikariDataSource - primary - Shutdown completed.
+2020-08-14 09:14:59.806 febs [Thread-31] INFO  c.b.d.d.DynamicRoutingDataSource - dynamic-datasource all closed success,bye
